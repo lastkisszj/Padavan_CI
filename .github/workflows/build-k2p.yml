@@ -10,7 +10,7 @@ on:
       firmwarever:
         description: 'firmware''s version'
         required: true
-        default: '20201015'
+        default: '210218'
 
 env:
   REPOSITORY_URL: https://github.com/chongshengB/rt-n56u.git
